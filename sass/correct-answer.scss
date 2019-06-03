@@ -1,0 +1,18 @@
+.correct-answer input {
+  & + span {
+    background-color: rgba(#38ad28, 0.6);
+
+    &:hover {
+      background-color: darken(rgba(#38ad28, 0.9), 5%);
+    }
+  }
+
+  &:checked + span {
+    background-color: #df4e4e;
+  }
+}
+
+.correct-answer img {
+  outline: 5px solid rgba(#38ad28, 0.9);
+  outline-offset: -5px;
+}
