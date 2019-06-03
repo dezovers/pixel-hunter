@@ -1,4 +1,4 @@
-# Игра «Пиксель хантер»
+# Игра «Pixel Hunter»
 
-Программирование — Akira
-Верстка и стилизация — HTML Academy
+* Программирование: [Akira](https://github.com/akira-wh).
+* Верстка и стилизация: `HTML Academy`.
